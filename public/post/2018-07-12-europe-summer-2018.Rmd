@@ -1,5 +1,5 @@
 ---
-title: Europe Summer 2018
+title: Europe Summer 2017
 author: ''
 date: '2017-08-25'
 slug: europe-summer-2018
@@ -14,7 +14,7 @@ library(leaflet)
 
 ```
 
-### Europe Summer 2018 Trip
+### Europe Summer 2017 Trip
 
 #### Countries visited Switzerland, Italy, Montenegro, Greece, Croatia
 
