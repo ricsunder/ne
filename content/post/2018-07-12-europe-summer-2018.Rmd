@@ -1,0 +1,8 @@
+---
+title: Europe Summer 2018
+author: ''
+date: '2018-07-12'
+slug: europe-summer-2018
+categories: []
+tags: []
+---
