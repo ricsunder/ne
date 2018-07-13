@@ -29,7 +29,7 @@ library(leaflet)
 
 ##### Day 2
 
-* Took the [gondola](https://www.youtube.com/watch?v=JWHmG99jlwU) up to [First Cliff Walk](https://media.jungfrau.ch/image/upload/f_auto,fl_lossy,q_auto,c_crop,ar_1680:700/c_scale,w_1320/v1479810701/fileadmin/Grindelwald_First_Sommer/Grindelwald-First-Sommer-Cliff-Walk-Eiger-Moench-Jungfrau.jpg), and enjoyed som amazing views of the Alps
+* Took the [gondola](https://www.youtube.com/watch?v=JWHmG99jlwU) up to [First Cliff Walk](https://media.jungfrau.ch/image/upload/f_auto,fl_lossy,q_auto,c_crop,ar_1680:700/c_scale,w_1320/v1479810701/fileadmin/Grindelwald_First_Sommer/Grindelwald-First-Sommer-Cliff-Walk-Eiger-Moench-Jungfrau.jpg), and enjoyed some amazing views of the Alps
 * Then hiked to a nearby [lake Bachalpsee](https://en.wikipedia.org/wiki/Bachalpsee#/media/File:Bachalpsee_reflection.jpg) and took some more pictures of the peaks in reflecting water.
 * After the gondola and hike everybody was hungry and craving for some good food and [Golden India restaurant](https://www.google.com/maps/place/Golden+India/@46.6244728,7.9753073,12z/data=!4m8!1m2!2m1!1sGolden+India!3m4!1s0x478f9bf95116ebdd:0x6499491bcf71838!8m2!3d46.6244583!4d8.0430548) fulfilled all the cravings.
 * After dinner enjoyed some [mini golf](https://www.google.com/maps/search/mini+golf/@46.6232805,8.0389147,19.66z) as sunset behind [Mount Eiger](https://img.myswitzerland.com/mys/n13929/images/buehne/Eiger_nordwand-1.jpg)
@@ -37,17 +37,41 @@ library(leaflet)
 
 ##### Day 3
 
-* After enjoying made to order omlette and muslifor breakfast, we left for Lauterbrunnen
+* After enjoying made to order omelete and musli for breakfast, we left for Lauterbrunnen
 * From there took the bus to Stechelberg and four different Gondolas to reach Schilthorn
-* We passed small villages of Wengen, Gimmewald and Murren as we travelled
+* We passed small villages of Wengen, Gimmewald and Murren as we traveled
 * The final destination for the gondola was [Piz Gloria revolving restaurant](https://img.myswitzerland.com/mys/n65937/images/buehne/piz_gloria_muerren.jpg)
 This restaurant was featured in [007 movie](http://jamesbond.wikia.com/wiki/Piz_Gloria) and offered spectacular views of all the major Alps peaks
-
+* After lunch at the restaurant, we proceeded to [Birg Skywalk](https://vimeo.com/206105774). The sky walk will test your fear of heights. 
 * The [Lauterbrunnen Valley](https://img.myswitzerland.com/mys/n65934/images/buehne/st0042708_wilderswil_lauterbrunnental.jpg) offered incredible views of the mountains and has 72 waterfalls. The most famous is the [Trümmelbach Falls](https://travelguide.michelin.com/sites/default/files/styles/poi_slideshow/public/images/travel_guide/voyage_media-NX-14590/trummelbach-waterfalls.jpg?itok=5rZwVXst)
 
 ##### Day 4
 
-*
+* After an amazing day at Schilthorn, it was onto Jungfraujoch. Also know as ["Top of Europe"](https://media.jungfrau.ch/image/upload/f_auto,fl_lossy,q_auto,c_crop,ar_1680:700/c_scale,w_1410/v1499772463/fileadmin/Jungfraujoch_Top_of_Europe/Jungfraujoch-Sphinx-Gletscher-Sonnenuntergang.jpg).
+* We started early morning and were lucky to get seats on the train without reservation.
+* We took the train from Grindelwald to Kleine Scheidegg, and then a special mountain [train](https://www.youtube.com/watch?v=tVxONJO3-rs) up to Jungfraujoch
+* The train traveled through some of the best sceneries in Swizerland. We travelled through mountains, tunnels and enjoyed views of glaciers.
+* After reaching the top we spent the whole day having fun on the snow.
+* After getting down, we enjoyed good lunch at Kleine Scheidegg, and a short hike.
+* After reaching the hotel around 4 pm, we still have the whole evning left and decided to take the train to Interlaken. We rented bicyles and strolled around the city and the lake.
+
+##### Day 5
+
+* On day 5 we decided to take the train to [Mount Titlis](https://www.youtube.com/watch?v=xNvJj4BfD40). 
+* We took the train from Interlaken to Engelberg and then a bus to Mount Titlis.
+* On our way we passed through the beautiful town of [Lungern](https://www.youtube.com/watch?v=8nYywGiwudk). After enjoying the mountains this town looked like a great way to relax. But we did not have time to do that. 
+* Once we reached Mount Titlis we took the gondola to the top. After Schilthorn and Jungfraujoch, Titlis felt a little underwhelming.
+* The facilities were not upto Swiss standards and nothing was open.
+* We ate late lunch at an Indian restaurant and took the 3 hour train ride back to Grindelwald and got ready to say goodbye to the Jungfraujoch region
+
+##### Day 6
+
+* Left for Zermat
+
+
+
+
+
 
 
 
